@@ -1,15 +1,15 @@
 # 📚 BookHub
 
 <div align="center">
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://book-hub-alu.netlify.app)
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
-[![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
-[![Supabase](https://img.shields.io/badge/Supabase-2.0-green.svg)](https://supabase.com/)
-
-A modern, full-featured book management platform built with React, TypeScript, and Supabase.
-
-[Live Demo](https://book-hub-alu.netlify.app) • [Documentation](#documentation) • [Features](#features) • [Getting Started](#getting-started)
+   [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://book-hub-alu.netlify.app)
+   [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
+   [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
+   [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
+   [![Supabase](https://img.shields.io/badge/Supabase-2.0-green.svg)](https://supabase.com/)
+   
+   A modern, full-featured book management platform built with React, TypeScript, and Supabase.
+   
+   [Live Demo](https://book-hub-alu.netlify.app) • [Documentation](#documentation) • [Features](#features) • [Getting Started](#getting-started)
 
 </div>
 
