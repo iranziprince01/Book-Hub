@@ -41,7 +41,7 @@
 
    ```bash
    git clone https://github.com/iranziprince01/Book-Hub.git
-   cd book-hub
+   cd Book-Hub
    ```
 
 2. **Install dependencies**
