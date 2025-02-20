@@ -40,7 +40,7 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/iranziprince01/book-hub.git
+   git clone https://github.com/iranziprince01/Book-Hub.git
    cd book-hub
    ```
 
