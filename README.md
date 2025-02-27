@@ -4,7 +4,7 @@
 
    ![BookHub Banner](https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=2000&q=80)
    
-   [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://book-hub-alu.netlify.app)
+   [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://bookhub-alu.netlify.app)
    [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
    [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
    [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
@@ -12,7 +12,7 @@
    
    A modern, full-featured book management platform built with React, TypeScript, and Supabase.
    
-   [Live Demo](https://bookhub.netlify.app) • [Documentation](#documentation) • [Features](#features) • [Getting Started](#getting-started)
+   [Live Demo](https://bookhub-alu.netlify.app) • [Documentation](#documentation) • [Features](#features) • [Getting Started](#getting-started)
 
 </div>
 
