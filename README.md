@@ -12,7 +12,7 @@
    
    A modern, full-featured book management platform built with React, TypeScript, and Supabase.
    
-   [Live Demo](https://book-hub-alu.netlify.app) • [Documentation](#documentation) • [Features](#features) • [Getting Started](#getting-started)
+   [Live Demo](https://bookhub.netlify.app) • [Documentation](#documentation) • [Features](#features) • [Getting Started](#getting-started)
 
 </div>
 
